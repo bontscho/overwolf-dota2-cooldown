@@ -6,13 +6,15 @@ Use this tool in solo queue or with your party in Teamspeak to automatically kee
 
 With this app you and your team will always be one step ahead and know when to take fights.
 
+## Screenshots
+
 ![UI Screenshot](images/02-ui-sample-1.jpg)
 
 ## Features
 
 ## Download
 
-Currently not available in the official app store (submitted, in review), to use it, download the latest version in the `dist` folder and install via the Overwolf settings/Developer options/Load unpacked extension.
+Currently not available in the official app store (submitted, in review). To use it, download the latest version in the `dist` folder and install via the Overwolf settings/Developer options/Load unpacked extension.
 
 [Download v1.0.0](dist/overwolf-dota2-cooldown-1.0.0.tar.gz?raw=true)
 
