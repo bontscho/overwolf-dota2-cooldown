@@ -16,13 +16,13 @@ With this app you and your team will always be one step ahead and know when to t
 * Pause all timers (when game is paused, hotkey enabled)
 * Choose enemy side
 * Select enemy heroes via searchable hero grid
-* Select level of ultimate (defaults at 1)
+* Select level of ultimate (defaults to 1)
 * Check if enemy has scepter
 * Start timer via click or hotkey
     * Timer will start with the corresponding time depending on level and scepter
 * Heroes with passive ultimate or 0 cooldown ultimate are faded
 * Level selector and Scepter will only be visible if it affects the hero's cooldown
-* Start roshan timer when aegis is picked up
+* Start roshan timer when aegis is picked up (hotkey enabled)
     * Counts down 6 minutes for aegis
     * Counts down 2 minutes for roshan downtime
     * Counts down 3 minutes with yellow border for uncertain time of roshan respawn
