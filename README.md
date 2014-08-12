@@ -10,6 +10,8 @@ With this app you and your team will always be one step ahead and know when to t
 
 ![UI Screenshot](images/02-ui-sample-1.jpg)
 
+![UI Screenshot](images/05-ui-explained.jpg)
+
 ## Features / Functionality
 
 * Move window/Close window
