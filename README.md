@@ -34,9 +34,7 @@ With this app you and your team will always be one step ahead and know when to t
 
 ## Download
 
-Currently not available in the official app store (submitted, in review). To use it, download the latest version in the `dist` folder and install via the Overwolf settings/Developer options/Load unpacked extension.
-
-[Download v1.0.2](dist/overwolf-dota2-cooldown-1.0.2.zip?raw=true)
+[Download via Overwolf Appstore](http://www.overwolf.com/apps/tsgw2_contest/#!appId=kdolboidhdecelphejhihfnjnfnncjehojcgleod)
 
 ## Notes
 
