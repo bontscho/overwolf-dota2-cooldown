@@ -1,5 +1,7 @@
 # Overwolf Dota 2 Cooldown - App
 
+## THIS APP IS NO LONGER MAINTAINED
+
 Dota 2 Cooldown is an [Overwolf](http://overwolf.com/) Overlay App that lets you set timers for your enemies' ultimates and aegis.
 
 Use this tool in solo queue or with your party in Teamspeak to keep the timers in sync with your team.
